@@ -1,5 +1,5 @@
-some_var = false
-another_var = nil
+some_var = "false"
+another_var = "nil"
 
 case
 	when 
